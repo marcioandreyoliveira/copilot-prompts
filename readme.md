@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Usando a IA Como Orientador de Carreira</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -21,12 +21,6 @@
 <table align="center">
 <thead>
   <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/marcioandreyoliveira">
-        <img src="https://avatars0.githubusercontent.com/u/15076218?v=3&s=115" alt="@marcioandreyoliveira"><br>
-      </a>
-    </td>
     <td colspan="3">
     <p>🎉 26y+ como desenvolvendo sistemas profissionalmente.
       <br/>
